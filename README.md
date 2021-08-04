@@ -14,9 +14,10 @@
 
 ### Implementation:
 > Note: Compile and Run this Program on Linux Terminal Environment using the following commands.
-'''
+
+```
 
 g++ ProctorUp.cpp -o ProctorUp
 ./ProctorUp
 
-'''
+```
