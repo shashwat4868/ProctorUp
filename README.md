@@ -5,6 +5,10 @@
 
 ### Features:
 > Student Information Management
+> 
 > Proctor - Student Data Exchange
+> 
 > Proctor - Student Management
+> 
 > Parent Data Access and Exchange Management
+> 
